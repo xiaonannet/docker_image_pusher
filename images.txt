@@ -1,1 +1,1 @@
-wdkang/kafka-console-ui:v1.0.8
+openjdk:17-jdk
