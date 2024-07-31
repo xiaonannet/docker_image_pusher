@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.3
+grafana/grafana:11.1.1
