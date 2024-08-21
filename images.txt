@@ -1,1 +1,1 @@
-bifromq/bifromq:3.2.2
+bifromq/bifromq:3.0.2
