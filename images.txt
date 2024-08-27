@@ -1,1 +1,1 @@
-bifromq/bifromq:3.0.2
+mysql:8.0.39
