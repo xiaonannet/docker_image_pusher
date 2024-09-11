@@ -1,2 +1,2 @@
-nginx:1.26.0
+emqx/emqtt-bench:0.4.22
 
