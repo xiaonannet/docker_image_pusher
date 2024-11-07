@@ -1,2 +1,2 @@
-emqx/emqtt-bench:0.4.22
+bifromq/bifromq:3.3.3
 
