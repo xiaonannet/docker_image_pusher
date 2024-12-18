@@ -1,1 +1,1 @@
-frangoteam/fuxa:1.2.2
+minio/minio:latest
