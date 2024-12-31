@@ -1,1 +1,1 @@
-minio/minio:latest
+apache/seata-server:2.3.0.jdk17
