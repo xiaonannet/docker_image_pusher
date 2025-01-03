@@ -1,1 +1,1 @@
-bifromq/bifromq:3.3.4
+bitnami/kafka:3.9.0
