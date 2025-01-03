@@ -1,1 +1,1 @@
-wdkang/kafka-console-ui:v1.0.10
+tdengine/tdengine:3.3.5.0
