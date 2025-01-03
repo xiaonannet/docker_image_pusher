@@ -1,1 +1,1 @@
-bitnami/kafka:3.9.0
+wdkang/kafka-console-ui:v1.0.10
