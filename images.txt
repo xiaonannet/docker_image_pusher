@@ -1,1 +1,1 @@
-648540858/wvp_pro:latest
+snowdreamtech/frps:0.62
