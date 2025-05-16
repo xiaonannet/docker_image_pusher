@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.62
+elasticsearch:8.18.1
