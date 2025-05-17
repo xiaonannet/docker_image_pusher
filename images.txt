@@ -1,1 +1,1 @@
-logstash:8.18.1
+elastic/filebeat:8.18.1
