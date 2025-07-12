@@ -1,1 +1,1 @@
-minio/minio:latest
+bifromq/bifromq:3.3.5
