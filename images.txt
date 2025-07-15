@@ -1,1 +1,1 @@
-bifromq/bifromq:3.3.5
+grafana/grafana:12.0.2
