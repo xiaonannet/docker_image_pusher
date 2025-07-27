@@ -1,1 +1,1 @@
-redis:7.4
+nacos/nacos-server:v3.0.2
