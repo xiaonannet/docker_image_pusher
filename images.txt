@@ -1,1 +1,1 @@
-rabbitmq:4.1.2-management
+tdengine/tsdb:3.3.7.0
