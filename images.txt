@@ -1,1 +1,1 @@
-bitnami/kafka:4.0.0
+snowdreamtech/frps:0.64
