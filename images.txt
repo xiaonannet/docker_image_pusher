@@ -1,1 +1,1 @@
-4.1.0-22
+latest-22-minimal
