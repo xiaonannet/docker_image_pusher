@@ -1,1 +1,1 @@
-latest-22-minimal
+nodered/node-red:4.1.0-22-minimal
