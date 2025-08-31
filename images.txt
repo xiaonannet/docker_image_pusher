@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.64
+latest-22-minimal
