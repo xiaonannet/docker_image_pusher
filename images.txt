@@ -1,1 +1,1 @@
-nodered/node-red:4.1.0-22
+node:22.19.0
