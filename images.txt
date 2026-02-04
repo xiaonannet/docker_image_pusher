@@ -1,1 +1,1 @@
-apache/bifromq:4.0.0-incubating
+apache/rocketmq:5.4.0
