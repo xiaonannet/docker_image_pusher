@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+snowdreamtech/frps:0.68.0
