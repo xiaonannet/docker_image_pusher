@@ -1,1 +1,1 @@
-snowdreamtech/frpc:0.68.0
+apache/kafka:4.3.0-rc2
